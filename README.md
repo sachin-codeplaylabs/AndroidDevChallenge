@@ -3,8 +3,11 @@
 ### Tell us what your idea is. 
 
  Vani allows you to handle your daily incoming calls using voice commands.
+ 
  📞 Say 'Hello' to Accept Calls.
+ 
  ☎ Say 'No' to Decline Calls.
+ 
  🎙️ Say 'Speaker' to answer the call on Speaker Mode.
  🤳 Say 'SMS' to send an auto-reply message.
  You can also customize your own words.
