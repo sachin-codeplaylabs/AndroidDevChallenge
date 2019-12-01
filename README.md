@@ -13,7 +13,7 @@ Answer incoming calls without touching the screen while your hands are busy or d
 
 
 ### Tell us how you plan on bringing it to life. 
-# End Users - Differently abled, Car Drivers and Teens
+##### End Users - Differently abled, Car Drivers and Teens
 
 Imagine, how difficult it is for Differently abled people to use smartphones especially incoming and outgoing calls, which is the mother feature of every smartphone. The Differently abled people use TTS Tech. and takes 4-5 swipes to answer the phone correctly. (Time Consumption – 15-20 seconds + big irritation).
 We have developed an app name - Vani - Your Personal Voice Assistant Call Answer
@@ -22,7 +22,7 @@ Where user can answer the calls with just a command. Just say “hello” and yo
 We want to train end user’s voice on smartphone itself to get higher accuracy for specific users, which will be language independent.
 We want Google Help in Speech Recognizer and noise cancellation, so each and every user can have easy access over the incoming calls with no language barrier.
 
-# Later, we want to integrate the app with Google Assistant or Android Auto.
+##### Later, we want to integrate the app with Google Assistant or Android Auto.
 
 
 ### Tell us about you. 
